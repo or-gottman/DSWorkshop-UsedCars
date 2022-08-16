@@ -3,3 +3,5 @@ opencv-python
 pathlib
 webcolors
 pillow
+google_drive_downloader
+zipfile
